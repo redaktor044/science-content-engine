@@ -1,0 +1,30 @@
+topics:
+  - name: artificial_intelligence
+    query: "artificial intelligence"
+    keywords:
+      - artificial intelligence
+      - machine learning
+      - large language models
+      - generative AI
+
+  - name: neuroscience
+    query: "neuroscience"
+    keywords:
+      - brain
+      - memory
+      - sleep
+      - cognition
+
+  - name: robotics
+    query: "robotics"
+    keywords:
+      - robotics
+      - humanoid robot
+      - autonomous robot
+
+  - name: space
+    query: "astronomy"
+    keywords:
+      - astronomy
+      - exoplanet
+      - cosmology
